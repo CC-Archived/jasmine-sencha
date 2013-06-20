@@ -1,0 +1,22 @@
+{
+  "name": "jasmine-sencha",
+  "version": "1.0.0",
+  "description": "Sencha Touch and Ext JS adaptor for Jasmine",
+  "keywords": [
+    "Jasmine",
+    "Sencha",
+    "Sencha Touch",
+    "Ext JS"
+  ],
+  "author": "John Yanarella <jmy@codecatalyst.com> (http://codecatalyst.com)",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/CodeCatalyst/jasmine-sencha"
+  },
+  "bugs": {
+    "url": "http://github.com/CodeCatalyst/jasmine-sencha/issues"
+  },
+  "readmeFilename": "README.md",
+  "main": "jasmine-sencha.js"
+}
