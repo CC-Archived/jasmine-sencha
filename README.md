@@ -1,6 +1,6 @@
 ## Sencha Touch and Ext JS adaptor for Jasmine
 
-**jasmine-sencha** is a tiny adaptor that tweaks [Jasmine](http://pivotal.github.io/jasmine/)'s "pretty print" format() method to make it aware of the Sencha Touch and Ext JS class system.
+**jasmine-sencha** is a tiny adaptor that tweaks [Jasmine](https://jasmine.github.io/)'s "pretty print" format() method to make it aware of the Sencha Touch and Ext JS class system.
 
 Without this adaptor, Jasmine will treat Sencha Touch and Ext JS class instances as deeply nested Objects and attempt to recursively traverse and format all of their instance properties.  This produces unnecessarily verbose assertion messages that will cause tests to run very slowly.
 
